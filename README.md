@@ -1,7 +1,7 @@
 
-![2024-06-06_22-54-38.png](2024-06-06_22-54-38.png)
+![readme-img.gif](readme-img.gif)
 
-## Posts Feed Application
+# Posts Feed Application
 
 This project is a simple React application that retrieves and displays posts along with their comments from a JSON placeholder API.
 
